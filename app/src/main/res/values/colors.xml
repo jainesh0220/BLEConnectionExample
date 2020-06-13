@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2020 by Jainesh Desai
+  ~ Created by Jainesh desai on 2020.
+  -->
+
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="buttonBackground">#cbcccd</color>
+    <color name="textColor">#44433f</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="textSecondaryColor">#40000000</color>
+    <color name="colorTransparent">#00ffffff</color>
+
+</resources>
